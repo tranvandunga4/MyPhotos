@@ -50,6 +50,7 @@
 
 -(void)settingMethod{
     NSLog(@"settingMethod");
+    NSLog(@"dung duoc cua no day");
 }
 
 @end
